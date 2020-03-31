@@ -1,0 +1,3 @@
+rootProject.name='delaunator'
+include ':app'
+include ':delaunator2'
